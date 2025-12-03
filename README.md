@@ -136,17 +136,17 @@ Architecture orientée objet comprenant les classes suivantes :
 
 ---
 ### 5. Exécution du programme
-Prérequis
+Prérequis :
 
-Python 3.x
+-Python 3.x
 
-Aucun module externe requis (uniquement la bibliothèque standard)
+-Aucun module externe requis (uniquement la bibliothèque standard)
 
-Lancement
+Lancement :
 
-Depuis un terminal, à la racine du projet :
+-Depuis un terminal, à la racine du projet :
 
-Le programme se lance alors directement dans l’interface console.
+-Le programme se lance alors directement dans l’interface console.
 
 ### 6. Résumé
 
