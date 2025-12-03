@@ -136,22 +136,4 @@ Architecture orientée objet comprenant les classes suivantes :
 
 ---
 
-## 5. Exemple d’un chapitre du mode Histoire
 
-```python
-chapitres[1] = {
-    'titre': "L'Examen Genin",
-    'description': "...",
-    'dialogueIntro': [...],
-    'ennemis': [
-        {'nom': 'Shikamaru Nara', 'niveau': 1, 'affinite': 'Vent'},
-        {'nom': 'Shoji Akimichi', 'niveau': 1, 'affinite': 'Terre'},
-        {'nom': 'Sasuke Uchiha', 'niveau': 2, 'affinite': 'Feu'}
-    ],
-    'dialogueFin': [...],
-    'recompenses': {
-        'xp': 100,
-        'technique': 'Kage Bunshin no Jutsu',
-        'objet': 'Bandeau de Konoha'
-    }
-}
