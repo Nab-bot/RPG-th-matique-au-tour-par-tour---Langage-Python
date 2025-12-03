@@ -135,5 +135,36 @@ Architecture orientée objet comprenant les classes suivantes :
 - Fonction retirée de la version finale  
 
 ---
+### 5. Exécution du programme
+Prérequis
 
+Python 3.x
+
+Aucun module externe requis (uniquement la bibliothèque standard)
+
+Lancement
+
+Depuis un terminal, à la racine du projet :
+
+Le programme se lance alors directement dans l’interface console.
+
+### 6. Résumé
+
+Le projet implémente :
+
+-Un moteur de combat complet et stratégique
+
+-Un système de techniques, d’affinités et de mudras
+
+-Une IA adaptable selon la situation et la difficulté
+
+-Un inventaire varié et cohérent
+
+-Deux modes majeurs : Arène et Histoire
+
+-Un didacticiel interactif
+
+-Une architecture claire, modulaire et entièrement orientée objet
+
+-Le tout dans une interface console, simple et efficace
 
